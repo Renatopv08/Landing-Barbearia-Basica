@@ -213,6 +213,8 @@ h2 {
   display: flex;
   align-items: center;
   gap: 40%;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
 .sobre-container {
@@ -223,6 +225,7 @@ h2 {
   gap: 40px;
   justify-content: center;
   flex-wrap: wrap;
+  text-align: center;
 }
 
 .sobre-img img {
